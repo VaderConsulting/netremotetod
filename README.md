@@ -24,7 +24,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/netremotetod`.
+Working copy from my Historical Dev folder `VB/Old/netremotetod`.
 Company names in project files: Microsoft.
 
 ## License
